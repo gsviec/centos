@@ -1,4 +1,5 @@
 FROM centos:7
+MAINTAINER Phanbook <helllo@gsviec.com
 ENV container docker
 
 RUN yum install epel-release -y
